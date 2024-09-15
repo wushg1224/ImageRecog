@@ -1,1 +1,6 @@
 /.venv
+/dataset
+/datasets
+.DS_Store
+*.pt
+*.yaml
